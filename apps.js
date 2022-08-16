@@ -9,3 +9,19 @@ function add(n1, n2) {
 }
 var result = add(10, 20);
 console.warn(result);
+// type infrence
+var data = 32;
+// data='tehu' ==> it return error
+var val = 10;
+var mynum;
+var person = {
+    name: "cicero",
+    age: 20,
+    email: 'abc@test.com'
+};
+console.warn(person.name);
+var User = {
+    name: 'peater ',
+    age: 29,
+    email: 'peatetr@test.com'
+};

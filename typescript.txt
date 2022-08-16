@@ -8,3 +8,46 @@ Boolean ==> true or false
 
 
 
+Type inference(guess) in typescript ==> auto detection of type of data
+
+
+3 object type
+
+
+4 Array Type in typescript
+
+
+
+enum Type in typescript
+
+A Group of constant 
+That can assign a Number to your String and make a easy comparison.
+enum Role[values]
+
+6 Any in typescript
+
+
+
+7 union 
+
+    union type describe a value that can be one of several types.
+
+
+
+8 Litral Type in typescript
+
+    Apply Values rather then Apply types
+    to a variable or paramater
+
+    let data:string|number='hello'
+    let data :'abc':122='abc'
+
+9 Type Alias in typescript
+
+    Define Type like a variable and 
+    reuse it 
+    1 Type Alias with variable
+    2 Type Alias with function params
+
+    
+

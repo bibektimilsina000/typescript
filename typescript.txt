@@ -1,0 +1,10 @@
+Core Types
+
+Number  ==> all intiger and floating 
+
+String ===> all character and String
+
+Boolean ==> true or false
+
+
+
